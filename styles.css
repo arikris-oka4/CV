@@ -1,0 +1,20 @@
+body {
+  background-color: blanchedalmond;
+}
+hr    {
+  background-color: white;
+  border-style: none;
+  height: 2px;
+  width:20%;
+  border-style:dotted;
+}
+img.contact_img {
+  height: 200px;
+}
+
+h3 {
+  color: darkgoldenrod ;
+}
+h1 {
+  color: dodgerblue;
+}
